@@ -1,6 +1,5 @@
 import React from 'react';
 import '../styles/profile.css';
-
 import avatar from '../assets/images/nasa.jpg';
 import {Main} from './Main';
 import {Stories} from './Stories'

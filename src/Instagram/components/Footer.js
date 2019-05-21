@@ -3,7 +3,6 @@ import '../styles/footer.css'
 import links from '../assets/data/links.json'
 
 
-
 export const Footer = () =>{
     const linksJSX = links.map((link)=>{
         return (

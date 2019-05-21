@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/images.css'
 
+
 import images from '../assets/data/images.json';
 
 export const Images = () => {

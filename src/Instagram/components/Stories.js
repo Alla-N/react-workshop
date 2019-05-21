@@ -1,5 +1,4 @@
 import React from 'react';
-
 import '../styles/stories.css';
 import stories from '../assets/data/stories.json';
 
